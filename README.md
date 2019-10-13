@@ -10,3 +10,4 @@ VCS adalah sebuah system yang mencatat semua perubahan yg terjadi pada file atau
 7.Mengirim perubahan ke server dengan perintah 'git push -u origin master'
 
 #latihan 1
+#latihan 1
