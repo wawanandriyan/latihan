@@ -11,3 +11,4 @@ VCS adalah sebuah system yang mencatat semua perubahan yg terjadi pada file atau
 
 #latihan 1
 #latihan 1
+#latihan 1
